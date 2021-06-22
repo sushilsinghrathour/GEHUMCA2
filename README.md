@@ -4,11 +4,12 @@ Note: 1. All the questions are compulsory
     
       3. Folder name should consist of YourName_UniversityRollNo.
       
-      4. Submit your code along with screenshots of output in the folder created by yourself 
+      4. Submit your code (Java file) along with screenshots of output in the folder created by yourself 
       
       5. Upload the folder in the given time (i.e. within 1 hour) only. if somebody uploads after 12, the submission will not be considered
       
       6. For outputs, the Screenshot should be of the full Screen otherwise your program and the output will not be considered.
+      
       
       
                                                                    Questions
